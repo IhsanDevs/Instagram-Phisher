@@ -8,7 +8,13 @@ A simple tool to create fake instagram web page attacks or can be called phishin
 
 ## Demo
 
+### ScreenShot
+
 ![demo 1](assets/img/demo1.png)
+
+### Video demo
+
+[![demo 2](assets/img/demo2.png)](https://www.youtube.com/watch?v=80faLsh9_9o)
 _More demos coming soon..._
 
 ## Installation
